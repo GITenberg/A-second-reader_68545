@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '37037'
     url: http://www.gutenberg.org/2009/agents/37037
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Ely_Webb
+covers:
+- cover_type: archival
+  image_path: 68545-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bryce, Catherine T. (Catherine Turner)
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '53289'
     url: http://www.gutenberg.org/2009/agents/53289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68545#A-second-reader
 gutenberg_issued: '2022-07-17'
 identifiers:
   gutenberg: '68545'
